@@ -1,1 +1,1 @@
-# courses-cryptocurrency-learning-exercises
+# Cryptocurrency Learning Exercises
